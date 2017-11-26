@@ -1,0 +1,15 @@
+.hero {
+    height: 41.5em; 
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url('https://picsum.photos/1000/450?image=1057');
+    background-size: cover;
+
+    h1 {
+        color: white;
+        font-size: 5em;
+    }
+}

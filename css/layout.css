@@ -1,0 +1,13 @@
+.wrap {
+    max-width: 120em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    lost-utility: clearfix;
+}
+  
+.block {
+    lost-column: 1/2;
+}

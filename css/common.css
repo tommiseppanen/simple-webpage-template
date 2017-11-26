@@ -1,0 +1,16 @@
+html { 
+    font-size: 62.5%; 
+} 
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 2rem;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
