@@ -9,5 +9,8 @@
 }
   
 .block {
-    lost-column: 1/2;
+    lost-column: {
+        0: 1;
+        800: 1/2;
+    } 
 }
