@@ -1,0 +1,11 @@
+.call-to-action {
+    font-size: 1.5em;
+    border:  1px solid white;
+    border-radius: 0.5em;
+    padding: 0.2em 1.0em;
+    color: white;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
