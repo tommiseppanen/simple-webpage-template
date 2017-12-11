@@ -15,6 +15,6 @@
 .block {
     lost-column: {
         0: 1;
-        800: 1/2;
-    } 
+        $medium: 1/2;
+    }
 }
