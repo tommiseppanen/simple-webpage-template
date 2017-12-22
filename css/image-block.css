@@ -1,5 +1,12 @@
 .image-block {
     background-size: cover;
-    height: 30em;
+    height: {
+        0: 20em;
+        $medium: 30em;
+    }
+    /*margin: {
+        0: 1em 0;
+        $medium: 0 0;
+    }*/
     box-shadow: 0 0.2em 0.5em rgba(0,0,0,.2);
 }

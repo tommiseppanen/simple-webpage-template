@@ -1,0 +1,8 @@
+.section {
+    padding: 0 2em;
+    lost-utility: clearfix;
+    margin-top: {
+        0: 0em;
+        $medium: 4em;
+    }
+}
