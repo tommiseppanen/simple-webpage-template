@@ -1,5 +1,5 @@
 .hero {
-    height: 31.5em; 
+    height: 41.5rem; 
     text-align: center;
     display: flex;
     align-items: center;
@@ -11,10 +11,19 @@
     color: white;
 
     h1 {     
-        font-size: 4rem;
+        font-size: 8rem;
+        margin: 0;
+        font-family: $header-font-family;
+        font-weight: normal;
     }
 
     .text {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
+        margin: 0;
+        font-family: $header-font-family;
+    }
+
+    .bottom-call-to-action {
+        margin-top: 2.5em;
     }
 }
