@@ -4,3 +4,8 @@ $medium: 800px;
 /*fonts*/
 $font-family: 'Raleway', sans-serif;
 $header-font-family: 'Pinyon Script', serif;
+
+/*colors*/
+$primary: #1E85AE;
+$stripe1: #EEF8FC;
+$stripe2: white;
