@@ -3,8 +3,11 @@ html {
 } 
 
 body {
-	font-family: $font-family;
-	margin: 3.6rem;
+	font-family: $font-family;	
+	margin: {
+        0: 0;
+        $medium: 3.6rem;
+    }
 	background-color: #f0f0f0;
 	font-size: 1.4rem;
 
@@ -27,7 +30,10 @@ h2 {
 	font-family: 'Pinyon Script';
 	font-size: 4rem;
 	font-weight: normal;
-	margin: 0;
+	margin: {
+        0: 3rem 0 0 0;
+        $medium: 0;
+    }
 }
 
 a:hover {
