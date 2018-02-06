@@ -1,5 +1,6 @@
 .image-block {
     background-size: cover;
+    background-position: center;
     height: {
         0: 20em;
         $medium: 30em;
