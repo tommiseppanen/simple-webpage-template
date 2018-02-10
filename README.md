@@ -5,6 +5,3 @@ Start dev server:
 ```
 npm run start
 ```
-
-Todo:
-- button hover effect and shadow
